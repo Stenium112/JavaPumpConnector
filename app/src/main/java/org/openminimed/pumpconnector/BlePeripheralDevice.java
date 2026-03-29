@@ -1,4 +1,4 @@
-package me.palmarci.pumpconnector;
+package org.openminimed.pumpconnector;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;

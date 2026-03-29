@@ -1,4 +1,4 @@
-package me.palmarci.pumpconnector;
+package org.openminimed.pumpconnector;
 
 import org.junit.Test;
 

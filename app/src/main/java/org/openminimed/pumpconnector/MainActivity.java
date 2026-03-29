@@ -1,4 +1,4 @@
-package me.palmarci.pumpconnector;
+package org.openminimed.pumpconnector;
 
 import android.os.Bundle;
 import androidx.activity.EdgeToEdge;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import me.palmarci.pumpconnector.BlePeripheralDevice;
+import org.openminimed.pumpconnector.BlePeripheralDevice;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
