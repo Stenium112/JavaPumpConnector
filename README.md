@@ -1,4 +1,7 @@
 # JavaPumpConnector
 
 ### TODO:
-- [x] rename from me.palmarci to org.openminimed 
+
+- [x] rename from me.palmarci to org.openminimed
+- [ ] implement SAKE handshake
+
